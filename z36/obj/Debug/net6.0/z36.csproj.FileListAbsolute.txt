@@ -1,0 +1,15 @@
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.csproj.AssemblyReference.cache
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.AssemblyInfoInputs.cache
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.AssemblyInfo.cs
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.csproj.CoreCompileInputs.cache
+C:\Users\edm\Desktop\С#\z36\bin\Debug\net6.0\z36.exe
+C:\Users\edm\Desktop\С#\z36\bin\Debug\net6.0\z36.deps.json
+C:\Users\edm\Desktop\С#\z36\bin\Debug\net6.0\z36.runtimeconfig.json
+C:\Users\edm\Desktop\С#\z36\bin\Debug\net6.0\z36.dll
+C:\Users\edm\Desktop\С#\z36\bin\Debug\net6.0\z36.pdb
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.dll
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\refint\z36.dll
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.pdb
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\z36.genruntimeconfig.cache
+C:\Users\edm\Desktop\С#\z36\obj\Debug\net6.0\ref\z36.dll

@@ -1,0 +1,15 @@
+C:\Users\edm\Desktop\С#\z34\bin\Debug\net6.0\z34.exe
+C:\Users\edm\Desktop\С#\z34\bin\Debug\net6.0\z34.deps.json
+C:\Users\edm\Desktop\С#\z34\bin\Debug\net6.0\z34.runtimeconfig.json
+C:\Users\edm\Desktop\С#\z34\bin\Debug\net6.0\z34.dll
+C:\Users\edm\Desktop\С#\z34\bin\Debug\net6.0\z34.pdb
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.csproj.AssemblyReference.cache
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.AssemblyInfoInputs.cache
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.AssemblyInfo.cs
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.csproj.CoreCompileInputs.cache
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.dll
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\refint\z34.dll
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.pdb
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\z34.genruntimeconfig.cache
+C:\Users\edm\Desktop\С#\z34\obj\Debug\net6.0\ref\z34.dll
